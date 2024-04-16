@@ -32,7 +32,5 @@ CSAndroidHelper项目欢迎社区的贡献和反馈。如果您在使用过程�
 - **GitHub Issues**：提交问题或建议至[CSAndroidHelper GitHub仓库] (https://github.com/jojozero1/CSAndroidHelper/issues)。
 - **讨论区**：加入我们的讨论区，与其他开发者交流心得和最佳实践。
 
-## 许可证
 
-CSAndroidHelper是在[MIT许可证] (https://github.com/jojozero1/CSAndroidHelper/blob/master/LICENSE)下发布的，您可以自由地使用、修改和分发它。
 
