@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config xmlns:android="http://schemas.android.com/apk/res/android">
+    <base-config cleartextTrafficPermitted="true" />
+    <!-- 是否允许应用发起或接收未加密的 HTTP 请求（即明文流量）测试使用，便于接收消息-->
+</network-security-config>
