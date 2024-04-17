@@ -239,7 +239,7 @@ public class ChatApiClient {
 //            测试用key 直接填上自己的key不用去再设置key了
 //            备用url：https://api.chatanywhere.com.cn
 //            url = "https://api.chatanywhere.tech";
-//            apiKey = "sk-ohKDb3Q9G6qNrBtbKhC7Do7ZrZKJNfSnzKmsCi1EuFvsjE8s";
+//            apiKey = "sk-oh***********************;
         }
         this.url = url;
         this.apiKey = apiKey;
